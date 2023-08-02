@@ -6,18 +6,21 @@ The project requires you to create a web page that matches the provided design t
 
 Final output should be responsive design which means it should look appropriate on mobile, tablet, laptop & desktop screens. You are suppose to use media queries for differet breakpoints to make it responsive.
 
+**color palette**
+
+- #F3F6FD
+- #151522
+- #FFFFFF
+- #FDE5CC
+- #B4F1CE
+- #FFD3E2
+- #E9E7FD
 ### Technology Stack
 
 - HTML
 - CSS
 - SASS/SCSS
 - NPM Packages
-
-### Estimated Time
-
-The estimated time to complete the given code assignment falls within the range of **12 hours** to **16 hours**.
-
-Please note that this is a rough estimation and the actual time required may vary based on individual circumstances, familiarity with the technology stack, and the complexity of the design. It is important to manage your time effectively and plan accordingly to ensure timely completion of all required features and design elements.
 
 ### Submission
 
